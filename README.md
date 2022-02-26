@@ -5,7 +5,7 @@
 ## codetoimg
 A Simple Code To Image Telegram Bot
 
-Team Notawake:
+Team NotAwake:
 - Clive Ong
 - Liu Yongliang
 - Ong Jun Xiong
