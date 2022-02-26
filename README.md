@@ -5,6 +5,11 @@
 ## codetoimg
 A Simple Code To Image Telegram Bot
 
+Team Notawake:
+- Clive Ong
+- Liu Yongliang
+- Ong Jun Xiong
+
 ## Usage
 - Go to Telegram and chat with @codetoimg_bot
 - Or, add @codetoimg_bot to your Telegram group
